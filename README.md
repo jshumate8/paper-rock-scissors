@@ -8,7 +8,7 @@ Inside the `main.py` file, you'll find the ASCII art for the hand signals alread
 
 Start the game by asking the player:
 
-*"What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors."*
+*"What do you choose? Type 1 for Rock, 2 for Paper or 3 for Scissors."*
 
 From there you will need to figure out: 
 * How you will store the user's input.
