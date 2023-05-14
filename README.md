@@ -20,4 +20,5 @@ You can find the "official" rules of the game on [the World Rock Paper Scissors 
 
 
 # Solution
-https://replit.com/@jshumate/rock-paper-scissors-start
+[https://replit.com/@jshumate/rock-paper-scissors-start
+](https://replit.com/@jshumate/rock-paper-scissors-start?v=1)
